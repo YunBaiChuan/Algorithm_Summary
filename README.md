@@ -1,6 +1,6 @@
 # Algorithm_Summary
 
-笔记格式为markdown，其中代码部分都是用Python写的
+笔记格式为Markdown，其中代码部分都是用Python写的
  
 包含两个部分：  
 1.每日算法总结，主要是力扣和牛客的每日一题总结  
